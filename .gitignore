@@ -1,0 +1,18 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+# Archivos de trabajo y exportaciones intermedias no incluidas en el análisis
+graf*.png
+
+# Material local fuera de la publicación del análisis Python
+dashboard_igae*.html
+dashboard_igae.py
+*_carrusel.py
+reporte.py
+slides_python.py
+post_*.md
+docs/
+*.pdf
+imgs/claro/
